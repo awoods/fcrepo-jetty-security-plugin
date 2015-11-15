@@ -1,0 +1,4 @@
+option:usersFile
+sample:path/to/usersFile
+desc:Jetty users file
+section:Options
